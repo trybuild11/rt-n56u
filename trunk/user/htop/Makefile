@@ -1,6 +1,7 @@
 SRC_NAME = htop-3.0.2
 #SRC_URL = https://bintray.com/htop/source/download_file?file_path=htop-3.0.2.tar.gz
-SRC_URL = https://github.com/hanwckf/rt-n56u/blob/master/trunk/user/htop/htop-3.0.2.tar.gz
+#SRC_URL = https://github.com/hanwckf/rt-n56u/blob/master/trunk/user/htop/htop-3.0.2.tar.gz
+SRC_URL = https://github.com/htop-dev/htop/archive/refs/tags/3.0.2.tar.gz
 
 THISDIR = $(shell pwd)
 
